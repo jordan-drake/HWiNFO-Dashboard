@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Local workspace files — internal, not part of the public project
+HANDOFF.md
+HANDOFF_ARCHIVE.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
